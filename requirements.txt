@@ -1,9 +1,11 @@
-torch==1.2.0
+torch==1.0.0
+torchfile==0.1.0
 torchvision==0.4.0
 dominate==2.4.0
 visdom==0.1.8.9
-scipy==1.4.1
-numpy==1.18.4
+scipy==1.3.1
+numpy==1.17.0
 Pillow==4.3.0
+websocket-client==0.57.0
 opencv-python==4.1.0.25
 imagaug==0.2.7
